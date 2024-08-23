@@ -1,1 +1,1 @@
-# javaworkshop
+# RECE-Workshop
